@@ -1,0 +1,1 @@
+const t=[{title:"Introduce",url:"/"},{title:"SNS & Contact",url:"/contact"},{title:"Blog",url:"https://alien.durumis.com",target:"_blank"}],e="Alien Diary",l="All rights reserved";export{l as f,t as m,e as s};
