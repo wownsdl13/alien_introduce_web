@@ -21,7 +21,7 @@
         },
         {
             type: 'Email',
-            url: 'contact@alien-app.com',  // 'mailto:' 부분을 제거하여 순수 이메일 주소를 보이게 함
+            url: 'contact@aliemap.com',  // 'mailto:' 부분을 제거하여 순수 이메일 주소를 보이게 함
             icon: '/icons/email.png',
             description: $_('비즈니스 문의 및 궁금증은 여기로')
         },
