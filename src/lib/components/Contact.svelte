@@ -8,7 +8,7 @@
     let contacts = [
         {
             type: 'YouTube',
-            url: 'https://www.youtube.com/@AlienApp',
+            url: 'https://www.youtube.com/@AlieMap',
             icon: '/icons/youtube.png',
             description: $_('우리 부부의 일상과 앱 개발등을 올리는 곳')
         },
