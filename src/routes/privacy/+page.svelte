@@ -15,7 +15,7 @@
 
         // Perform the fetch based on the extracted language code and licenseType
         try {
-            const response = await fetch(`http://127.0.0.1:3002/util/get_license?languageCode=${languageCode}&licenseType=${licenseType}`);
+            const response = await fetch(`https://europe.server.aliemap.com/util/get_license?languageCode=${languageCode}&licenseType=${licenseType}`);
             if (!response.ok) {
                 throw new Error(`Failed to fetch license data: ${response.statusText}`);
             }
